@@ -2,9 +2,11 @@
     <img src="https://github.com/AJ-Wi/AJ-Wi/blob/main/assets/logo_horizontal.png" width="300" title="AJ-Wi">
 </p>
 
-# El Jabillo
+# Tutorial generacion de mapa aleatorio.
 
-Aplicacion web desarrollada en PHP en 2016 para la Agencia de loteria El Jabillo
+![screen](https://github.com/AJ-Wi/Tutorial_mapa_aleatorio_Godot/blob/main/screensot/screen.png){width='100%' height='auto'}
+
+generacion de mapa aleatorio usando el algoritmo de `"perlin noise"`, usando el motor de juego Godot engine.
 
 ## Licencia
 
