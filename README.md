@@ -4,7 +4,7 @@
 
 # Tutorial generacion de mapa aleatorio.
 
-![screen](https://github.com/AJ-Wi/Tutorial_mapa_aleatorio_Godot/blob/main/screensot/screen.png){width='100%' height='auto'}
+![screen](https://github.com/AJ-Wi/Tutorial_mapa_aleatorio_Godot/blob/main/screenshot/screen.png)
 
 generacion de mapa aleatorio usando el algoritmo de `"perlin noise"`, usando el motor de juego Godot engine.
 
